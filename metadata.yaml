@@ -1,0 +1,42 @@
+_repo: Alamainen-Romaani_53913
+_version: 0.0.1
+alternative_title: Der Untertan. Finnish
+contributor:
+  translator:
+    agent_name: Vuorinen, Huvi
+    aliases:
+    - Valkama, Ville
+    - Vasama, Veikko
+    - Rajatie, Veikko
+    birthdate: 1883
+    deathdate: 1965
+    gutenberg_agent_id: '47115'
+    url: http://www.gutenberg.org/2009/agents/47115
+    wikipedia: https://fi.wikipedia.org/wiki/Huvi_Vuorinen
+creator:
+  author:
+    agent_name: Mann, Heinrich
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '35073'
+    url: http://www.gutenberg.org/2009/agents/35073
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Heinrich_Mann
+    - http://de.wikipedia.org/wiki/Heinrich_Mann
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53913'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany -- Politics and government -- Fiction'
+- !lcsh 'Satire, German'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: 'Alamainen: Romaani'
+url: http://www.gutenberg.org/ebooks/53913
