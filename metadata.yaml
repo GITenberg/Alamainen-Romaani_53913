@@ -1,5 +1,5 @@
 _repo: Alamainen-Romaani_53913
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Der Untertan. Finnish
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '47115'
     url: http://www.gutenberg.org/2009/agents/47115
     wikipedia: https://fi.wikipedia.org/wiki/Huvi_Vuorinen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mann, Heinrich
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Heinrich_Mann
     - http://de.wikipedia.org/wiki/Heinrich_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53913#Alamainen-Romaani
 gutenberg_issued: '2017-01-07'
 gutenberg_type: Text
 identifiers:
